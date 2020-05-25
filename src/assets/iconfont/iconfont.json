@@ -1,0 +1,30 @@
+{
+  "id": "1476428",
+  "name": "ehr",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1112",
+      "name": "警告",
+      "font_class": "jinggao",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "622955",
+      "name": "ZS打勾",
+      "font_class": "dagou",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "10635080",
+      "name": "打勾",
+      "font_class": "tick",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    }
+  ]
+}
